@@ -1,0 +1,17 @@
+server:
+    port: 9000
+    servlet:
+      context-path: /auth
+    session:
+      cookie:
+        name: UISESSION
+        
+spring:
+    ldap:
+     embedded:
+      base-dn: dc=springframework,dc=org
+      ldif: classpath:test-server.ldif
+      port: 8389
+      url: ldap://localhost:8389/
+        
+        
