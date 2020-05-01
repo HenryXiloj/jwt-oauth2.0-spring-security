@@ -1,13 +1,12 @@
 # SpringBoot2-oauth2-Ldap
 Integration Spring boot 2 oauth2 ldap java 11
 
-Outh2
-Keys:
-User: henry
-pass: secret
+OAuth2 keys:
+Client: henry
+Secret: secret
 
-Ldap
-User: Henry
+Ldap user:
+User: henry
 Pass: 123
 
 Test.
