@@ -26,6 +26,7 @@ value:  Bearer {token} <br />
 
 http://localhost:9000/rest/hello <br />
 
+![alt text](https://github.com/HenryXiloj/jwt-oauth2.0-spring-security/blob/master/kotlin4.PNG?raw=true)
 
 
 
