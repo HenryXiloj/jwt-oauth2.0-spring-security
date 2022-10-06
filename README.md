@@ -1,3 +1,6 @@
+# Detailed description and steps for run project found here: 
+https://jarmx.blogspot.com/2022/10/microservices-security-patterns-and.html
+
 # jwt-oauth2.0-spring-security
 
 Ldap user : <br />
