@@ -15,6 +15,10 @@ Password: secret <br />
 
 ![alt text](https://github.com/HenryXiloj/jwt-oauth2.0-spring-security/blob/master/kotlin1.PNG?raw=true)
 
+![alt text](https://github.com/HenryXiloj/jwt-oauth2.0-spring-security/blob/master/kotlin2.PNG?raw=true)
+
+![alt text](https://github.com/HenryXiloj/jwt-oauth2.0-spring-security/blob/master/kotlin3.PNG?raw=true)
+
 GET: headers with   <br />
 
 Key: Authorization  <br />
