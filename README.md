@@ -1,21 +1,45 @@
-# SpringBoot2-oauth2-Ldap
-Integration Spring boot 2 oauth2 ldap java 11
+# jwt-oauth2.0-spring-security
 
-OAuth2 keys:
-Client: henry
-Secret: secret
+Ldap user :
+Username: henry
+Password: 123
 
-Ldap user:
-User: henry
-Pass: 123
+POSTMAN
 
-Test.
+Get access token
 
-Post
-http://localhost:9000/auth/oauth/token
+POST: http://localhost:9000/oauth/token
+Type: Basic Auth
+Username: henry
+Password: secret
 
-Get:
-http://localhost:9000/auth/user/principal?access_token=YOUR_TOKEN
+
+
+
+
+
+
+
+
+
+GET: headers with  
+
+Key: Authorization 
+value:  Bearer {token}
+
+http://localhost:9000/rest/hello
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
