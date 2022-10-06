@@ -1,8 +1,8 @@
 # jwt-oauth2.0-spring-security
 
-Ldap user :
-Username: henry
-Password: 123
+Ldap user : <br />
+Username: henry <br />
+Password: 123 <br />
 
 POSTMAN
 
